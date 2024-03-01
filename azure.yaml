@@ -9,7 +9,7 @@ platform:
     name: dc-pv44d74rp44bs
     project: dcprj-pv44d74rp44bs
     catalog: test-catalog
-    environmentDefinition: Todo-Nodejs-Mongo-AKS
+    environmentDefinition: Todo-Shared-AKS
 services:
   web:
     project: ./src/web
